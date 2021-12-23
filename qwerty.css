@@ -1,0 +1,11 @@
+.menu{
+    width: 30%;
+  position: sticky; 
+  top: 0; 
+}
+img {
+  width: 30%;
+}
+h2 {
+    text-align: center;
+}
